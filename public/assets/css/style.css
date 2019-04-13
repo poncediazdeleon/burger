@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+}
+li {
+    padding: 5px;
+    margin: 5px;
+    background: skyblue;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: antiquewhite
+  }
+  h1 {
+    color: #dc3545;
+  }
+  h2 {
+    color: skyblue;
+
+  }
+
+  input {
+    margin: 5px;
+  }
