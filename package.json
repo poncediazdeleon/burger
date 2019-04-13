@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuliyazabarsky/burger.git"
+    "url": "git+https://github.com/poncediazdeleon/burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuliyazabarsky/burger/issues"
+    "url": "https://github.com/poncediazdeleon/burger/issues"
   },
-  "homepage": "https://github.com/yuliyazabarsky/burger#readme",
+  "homepage": "https://github.com/poncediazdeleon/burger#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
