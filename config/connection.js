@@ -12,6 +12,6 @@ if (process.env.JAWSDB_URL) {
     database: "burgers_db"
   })
 }
-connection.connect();
+// connection.connect();
 // Export connection for our ORM to use.
 module.exports = connection;
